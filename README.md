@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## To install node_modules which is ignored by git
 Run<br>
-### `npm start`
+### `npm install`
 Then you are ready to start the project
 
 In the project directory, you can run:
